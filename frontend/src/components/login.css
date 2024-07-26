@@ -1,0 +1,56 @@
+.loginpg{
+    background-image: url('../assets/bg-01.jpg');
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: white;
+    box-shadow: 0 4px 8px;
+    width: 30%;
+    height: 50%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container input{
+   
+    width: 200px;
+    padding: 10px;
+    border: 1px solid;
+}
+label{
+    display: block;
+}
+.fb{
+    background-color: #3b5998;
+    height: 50px;
+    width: 110px;
+}
+.sign{
+   background-color: black;
+   height: 50px;
+    width: 225px;
+    margin-top: 20px;
+    display: block;
+    margin-left: 80px;
+}
+.g{
+background-color:white;
+height: 50px;
+width: 110px;
+}
+h5{
+    color: white;
+}
+#l{
+margin-top: 20px;
+}
+#p{
+    margin-top: 20px;
+    }
+
